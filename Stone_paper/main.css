@@ -1,0 +1,44 @@
+#outer
+{
+ border: 2px solid red;
+ text-align: center;
+
+}
+#p1
+{
+ color: teal;
+ font-family: 'Times New Roman', Times, serif;
+ font-size:xx-large;
+}
+#p2{
+ color: darkkhaki; 
+ font-family: 'Times New Roman', Times, serif;
+ font-size:xx-large;
+}
+#p3
+{
+ color: purple;
+ font-family: 'Times New Roman', Times, serif;
+ font-size:xx-large;
+}
+#rock{
+ line-height: 30px;
+margin: 10px;
+width: 130px;
+padding: 10px;
+text-align: center;
+}
+#scissor{
+ line-height: 30px;
+margin: 10px;
+width: 130px;
+padding: 10px;
+text-align: center;
+}
+#paper{
+ line-height: 30px;
+margin: 10px;
+width: 130px;
+padding: 10px;
+text-align: center;
+}
